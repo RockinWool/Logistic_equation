@@ -1,0 +1,2 @@
+# Logistic_equation
+ロジスティック方程式をPythonで記述してみただけ
